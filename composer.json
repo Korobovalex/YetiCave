@@ -1,0 +1,14 @@
+{
+    "name": "user/yeticave",
+    "description": "Snowboard equipment auction",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Alex Korobov",
+            "email": "korobovalex@mail.ru"
+        }
+    ],
+    "require": {
+        "swiftmailer/swiftmailer": "^6.2"
+    }
+}
